@@ -1,5 +1,5 @@
 
-# `ftp-client` — FTP Client for Systelab projects
+# `ftp-client` — SFTP Client for Systelab projects
 
 ## Getting Started
 
@@ -60,7 +60,6 @@ Run it from your favourite IDE.
 This is only a proof of concept.
 
 - Get the user and secret as parameter.
-- Send the image file.
 - ...
 
 [git]: https://git-scm.com/
